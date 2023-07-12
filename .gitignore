@@ -1,0 +1,13 @@
+/routing-02-registering-and-rendering-routes
+/routing-03-navigating-with-router-link
+/routing-04-styling-active-links
+/routing-05-navigation-and-dynamic-paths
+/routing-06-updating-params-data-with-watchers
+/routing-07-passing-params-as-props
+/routing-08-redirecting-and-catch-all-routes
+/routing-09-more-fun-with-named-routes
+/routing-10-using-query-params
+/routing-11-rendering-multiple-routes-with-named-routerview
+/routing-12-controlling-scroll-behavior
+/routing-13-beyond-entering-route-leave-guards
+/routing-14-organizing-route-files
